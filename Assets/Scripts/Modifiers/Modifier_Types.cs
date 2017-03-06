@@ -1,0 +1,13 @@
+﻿public enum Modifier_Types
+{
+	HEALTH, 
+	MANA, 
+	MOVESPEED, 
+	STRENGTH,
+	AGILITY, 
+	INTELLIGENCE, 
+	DAMAGE, 
+	ATTACK_SPEED, 
+	ARMOR, 
+	SPELL_RESISTANCE
+}
